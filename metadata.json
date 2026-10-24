@@ -1,0 +1,6 @@
+{
+  "name": "DocScan",
+  "description": "High-performance document scanner with OCR, categorized folders, PDF/JPEG export, E2E encryption, and automated cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
